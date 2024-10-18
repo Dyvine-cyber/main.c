@@ -1,0 +1,25 @@
+//program to prepare a 2D ARRAY
+/*
+auther:Dyvine Eshiuma
+Reg no:CT102/G/24154/24
+*/
+
+
+#include<stdio.h>
+int main(){
+	int i,j ;
+	
+	int mark[2][3]={{50,90,60},{40,70,40}};
+	for(i=0;i<2;i++){
+	for(j=0;j<3;j++);{
+	printf("mark[%d][%d]=%d\n",i,j,mark[i][j]);
+	}
+	
+		
+	}	
+	return 0;
+	}
+	
+	 
+	
+	
